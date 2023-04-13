@@ -1,2 +1,2 @@
-# Effective-Network-Parameter-Reduction-Schemes-for-Neural-Distinguisher
-The code is related to 'Effective Network Parameter Reduction Schemes for Neural Distinguisher'.
+# A Deep Learning aided Differential Distinguisher Improvement Framework with More Lightweight and Universal
+The code is related to 'A Deep Learning aided Differential Distinguisher Improvement Framework with More Lightweight and Universal'.
